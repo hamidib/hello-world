@@ -4,8 +4,6 @@ CPSC 546 hello-world
 
 //This is my  edit to the readme
 
-# ~~~ Author: Alec Yenter ~~~
-
 # === imports ===
 
 import numpy as np
